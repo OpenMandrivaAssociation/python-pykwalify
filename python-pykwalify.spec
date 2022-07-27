@@ -1,7 +1,7 @@
 Summary:	Python library for JSON/YAML schema validation
 Name:		python-pykwalify
 Version:	1.8.0
-Release:	1
+Release:	2
 Group:		Development/Python
 License:	BSD
 Url:		https://pypi.org/project/pykwalify/
