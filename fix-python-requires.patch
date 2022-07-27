@@ -1,0 +1,12 @@
+diff -uraN pykwalify-1.8.0/setup.py omv-pykwalify-1.8.0/setup.py
+--- pykwalify-1.8.0/setup.py	2020-12-30 14:25:07.000000000 +0100
++++ omv-pykwalify-1.8.0/setup.py	2022-07-27 17:18:41.402464289 +0200
+@@ -27,7 +27,7 @@
+     },
+     install_requires=[
+         'docopt>=0.6.2',
+-        "ruamel.yaml>=0.16.0",
++        "ruamel.yaml>=0.18.0",
+         'python-dateutil>=2.8.0',
+     ],
+     classifiers=[
